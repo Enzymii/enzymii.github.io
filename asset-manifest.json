@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e69b807.chunk.css",
-    "main.js": "/static/js/main.47870e92.chunk.js",
-    "main.js.map": "/static/js/main.47870e92.chunk.js.map",
+    "main.css": "/static/css/main.d9f37fff.chunk.css",
+    "main.js": "/static/js/main.3601cd7e.chunk.js",
+    "main.js.map": "/static/js/main.3601cd7e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e3e88374.js",
     "runtime-main.js.map": "/static/js/runtime-main.e3e88374.js.map",
     "static/css/2.a440a562.chunk.css": "/static/css/2.a440a562.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.6542fa4a.chunk.js.map": "/static/js/2.6542fa4a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a440a562.chunk.css.map": "/static/css/2.a440a562.chunk.css.map",
-    "static/css/main.7e69b807.chunk.css.map": "/static/css/main.7e69b807.chunk.css.map",
+    "static/css/main.d9f37fff.chunk.css.map": "/static/css/main.d9f37fff.chunk.css.map",
     "static/js/2.6542fa4a.chunk.js.LICENSE.txt": "/static/js/2.6542fa4a.chunk.js.LICENSE.txt",
     "static/media/404.f2449711.png": "/static/media/404.f2449711.png",
     "static/media/p404.less": "/static/media/UnidreamLED.4587987b.ttf",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.e3e88374.js",
     "static/css/2.a440a562.chunk.css",
     "static/js/2.6542fa4a.chunk.js",
-    "static/css/main.7e69b807.chunk.css",
-    "static/js/main.47870e92.chunk.js"
+    "static/css/main.d9f37fff.chunk.css",
+    "static/js/main.3601cd7e.chunk.js"
   ]
 }
